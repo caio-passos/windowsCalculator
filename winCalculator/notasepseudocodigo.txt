@@ -1,0 +1,47 @@
+uma unica virgula  (starta como false, se usar a virgula == true e a virgula fica inativa, sendo reativada quando clicar em outra operação matemática ) 
+
+trabalhar com long (para casas decimais)
+
+
+apagar com backspace (voltar a fazer a virgula apenas com backspace) 
+
+
+
+
+botão CE: 
+	/** Handle the button click. */
+    public void actionPerformed(ActionEvent e) {
+        //Clear the text components.
+        displayArea.setText("");
+        typingArea.setText("");
+        
+        //Return the focus to the typing area.
+        typingArea.requestFocusInWindow();
+
+
+y y2 = n
+
+
+
+
+usar lastIndexOf junto com o substring 
+
+
+Fazer as quatro operações matemáticas funcionarem. 
+
+
+Após clicar no mais nao permitir mais a cocatenação do valor digitado. 
+
+Se permitir virgula(virgula == true), permitir double. 
+
+Se não permitir virgula (virgula == false, permitir INT. 
+
+
+Botão igualdade realiza a operação. 
+
+
+
+
+
+
+
